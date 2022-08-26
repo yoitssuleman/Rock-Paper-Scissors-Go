@@ -1,5 +1,6 @@
 # Rock-Paper-Scissors-Go
 A simple Rock, Paper, Scissor game made in Python using loops!
+
 This code is wrong! I was comparing strings lexicographically so it didnt quite work right haha :/
 ````python
 #Ask user for rock paper scissor input
